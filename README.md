@@ -1,4 +1,4 @@
-Code used in "Mechanisms for dysregulation of excitatory-inhibitory balance underlying allodynia in dorsal horn neural subcircuits" by Ginsberg et al. 2024. A preprint of this paper is available [here](https://doi.org/10.1101/2024.06.10.598179).
+Code used in "Mechanisms for dysregulation of excitatory-inhibitory balance underlying allodynia in dorsal horn neural subcircuits" by Ginsberg et al. 2024. A preprint of the Ginsberg et al. paper is available [here](https://doi.org/10.1101/2024.06.10.598179).
 	
 
 The three main files in this repository are:
@@ -68,5 +68,5 @@ The three main files in this repository are:
 		* nearest_point_on_allodynia_surface_data_normalized.mat (the corresponding nearest points on the allodynia surface)
 
 
-Versions used in the Ginsberg et al paper of the 5 files produced by these three scripts are also provided (with self-explanatory names).
+Versions used in the Ginsberg et al. paper of the 5 files produced by these three scripts are also provided (with self-explanatory names).
 	
